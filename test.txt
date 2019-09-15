@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 66FC-0754
+
+ Directory of E:\git_project
+
+15-09-2019  11:12    <DIR>          .
+15-09-2019  11:12    <DIR>          ..
+15-09-2019  11:12                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  208,184,569,856 bytes free
